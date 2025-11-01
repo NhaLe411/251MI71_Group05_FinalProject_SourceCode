@@ -17,6 +17,14 @@
 **Advisor**: Lecturer Ho Trung Thanh
 
 ---
+##  Acknowledgments
+
+We express our sincere gratitude to:
+- **Lecturer Ho Trung Thanh** for invaluable guidance and feedback
+- **Faculty of E-commerce, UEL** for providing resources and academic support
+- **TripAdvisor reviewers** whose feedback enabled this research
+
+---
 ##  Project Overview
 
 This report presents a comprehensive sentiment analysis study of hotel customer reviews from TripAdvisor. We analyzed **2,499 reviews** for **The Milner York Hotel** to identify seasonal sentiment patterns and provide data-driven recommendations for service optimization.
@@ -140,14 +148,7 @@ This project demonstrates:
 This project is submitted as academic coursework for the University of Economics and Law (UEL). 
 
 
-##  Acknowledgments
 
-We express our sincere gratitude to:
-- **Lecturer Ho Trung Thanh** for invaluable guidance and feedback
-- **Faculty of E-commerce, UEL** for providing resources and academic support
-- **TripAdvisor reviewers** whose feedback enabled this research
-
----
 
 ** Last Updated**: November 2, 2025  
 ** Contact**: Available through GitHub repository
