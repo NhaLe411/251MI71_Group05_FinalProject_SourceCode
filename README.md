@@ -4,7 +4,19 @@
 # Analyzing Seasonal Trends in Tourist Reviews to Support Service Optimization and Marketing Strategies in  Hotels and Attractionss
 
 ---
+##  Team Members
 
+**Group 05 - Faculty of E-commerce**
+
+| No. | Full Name | Student ID |
+|-----|-----------|------------|
+| 1 | Lữ Hồng Quân | K224111500 |
+| 2 | Hồ Thị Ngọc My | K224111491 |
+| 3 | Lê Nguyễn Thanh Nhã | K224111497 |
+
+**Advisor**: Lecturer Ho Trung Thanh
+
+---
 ##  Project Overview
 
 This report presents a comprehensive sentiment analysis study of hotel customer reviews from TripAdvisor. We analyzed **2,499 reviews** for **The Milner York Hotel** to identify seasonal sentiment patterns and provide data-driven recommendations for service optimization.
@@ -87,19 +99,7 @@ This analysis provides actionable insights for:
 
 ---
 
-##  Team Members
 
-**Group 05 - Faculty of E-commerce**
-
-| No. | Full Name | Student ID |
-|-----|-----------|------------|
-| 1 | Lữ Hồng Quân | K224111500 |
-| 2 | Hồ Thị Ngọc My | K224111491 |
-| 3 | Lê Nguyễn Thanh Nhã | K224111497 |
-
-**Advisor**: Lecturer Ho Trung Thanh
-
----
 
 ##  Repository Contents
 
