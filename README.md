@@ -1,7 +1,7 @@
 # 251MI71_Group05_FinalProject_SourceCode
 **Course**: 251MI71 - Data Analytics in E-Commerce  
 **University of Economics and Law (UEL)**
-# Hotel Sentiment Analysis: Seasonal Trends in Customer Reviews
+# Analyzing Seasonal Trends in Tourist Reviews to Support Service Optimization and Marketing Strategies in  Hotels and Attractionss
 
 ---
 
